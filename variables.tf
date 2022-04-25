@@ -14,17 +14,12 @@ variable "region" {
   type        = string
 
 }
-variable "folder_path" {
+variable "topic" {
 
   type        = string
 
 } 
-
-variable "gcs_bucket" {
-
-  type        = string
-
-} 
+ 
 variable "repo_name" {
     type = string
 }
