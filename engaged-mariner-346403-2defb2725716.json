@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "engaged-mariner-346403",
+  "private_key_id": "2defb27257165d242c8aba28e4e94d11040dec42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC5xvNOrqjIcC+n\nIJEm2ij/2v8FhjqWSRChKNCrZDupScQ6p22FdjfZvqHhH63C8MlP1kBKXmwKNxbs\n+M7RFkC90tC6KT96mcRRYtTv0B4q0d2X8cGehWMMQq91aDQwtW5sq+HIuKLTfU3H\ny3vwVx5Wt45tYJD2pkxx4yLV3bkSP25roU+gD/KZSqkAIkscu9poVc0A+lsdIHG1\nj5wDNLUQSxNnjvUrantSEjcHn6Z4oTf/6k+DGVA9/iSvwztIMBKnmXjixNDoEKWk\naODuA51xhNjqcleY5Nek/qp74jMZ3fd8n3Pgy13ZNr2RXdH8mQIVVAcoSXOeaWt+\nZTIiQkIfAgMBAAECggEAOw1iicA7JnuCqj1P5mmyXqHeLoNcXCkdgBzZN6HE1Sr9\nlSdjSOkrF6vhCQ5ozW58j0Qra3hYH2cjgnAUTaIlMjGw53v1EaOPI8+moBQngrTz\nGzldsmXz9hG8dDWLYXBKiYCZZJRMLa3G65ti6iLHIgl23I21hrGV2x24FQNFsOas\n9czKDVqwj0p3qFEQ3KqEybCPPLTldRWI8d60HjSA5cnEpvF7Ls/fZ49jTRtO+UYC\n90DLv+wWjIXwAfZx+6D2Tw+EXaR85k72aOBuNf/CMWds3Dxat8KPJsRZ9Eh4T3YZ\nAnJ3aXil09N9tDcVB42twpMsBD6zVoYQkKUZylVFAQKBgQD5AArNFJsgJob/p98a\n0XbaAlZpumTuJ4DUrIlGRimAneVUDH3bVMu1HxhIiqhtp7HWUMdTZX+AyDWbcQ0m\nrblECY+BSDBf5en0Kzms+8F3Re5qE9++ZNPlIYOMMoqoINiTkhaUq/Fa7+uCRvHa\nSW3W23HUB2iA7P8PaWtVkYJruwKBgQC+/+qqVYYmerCzVpURDykQReH7TAnMZPjn\nRE9neOg3qbagekEM25izbcfbQy0k5rLeYAyIfnA+ceTkYTy3k4vSWlRxvXgx9QdG\nOATXpvpIK9zYLouhm4WnruQa1nxaT1tn8K98KNtldigEiRW78akjKVsjgRdRmLjr\nuqhVGc4y7QKBgQCf0ykbrchMgK5SVxxbiGuzT6DLyHqUawLEf+K1Gr/08GSM6F+4\ncts2bLkXhvjJOcRqffsTSqjmrpvKJGx+kS/DvidAomd6hob+1Of2Yroxps97gzow\naWOhRTu8t4xMkpixUCnyT9NhvXH7czI2HL/GE6EiqYaoinbFG7NrfzSplQKBgCOa\n32r7YHOh4Xi9BjLU6am/7T2EUjtJA2FRSaAXWOqvd3z47VFxSkkAiQYlwq+jVerA\navWy5EevwaSVP9VU6va+oglF8bcWX1HGtZhh5zw2+QdPvfXVYRf+MUWTgEDxlC+P\nHZd+ok+KtDEMQQH1LbuBRR0cPnWWi7pd5G1gzyCNAoGBAIkjIIZfSpzkI9eAhLz9\nDgcMmAKNwvvp3zAVqWM8wEdlAL6xkIV5I5oBwtNYB/zLqISjApJ1KQpyS1oq5Pi7\ntDo6gMpBUKYyNcCji2ntfpiogBcIaL2HkeDerH76uHdaqMySTCRmlcQpFCK1HcA/\ncKDovBbeFbtxHTicT3nk9j/y\n-----END PRIVATE KEY-----\n",
+  "client_email": "composer@engaged-mariner-346403.iam.gserviceaccount.com",
+  "client_id": "108193541819383842212",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/composer%40engaged-mariner-346403.iam.gserviceaccount.com"
+}
