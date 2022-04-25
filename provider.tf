@@ -1,13 +1,11 @@
 provider "google" {
 
- version = "~> 2.14"
-
  project     = var.project
 
  region      = var.region
 
  zone        = var.zone
 
- credentials = "ml-ci-cd-332706-965622272886.json"
+ credentials = "engaged-mariner-346403-2defb2725716.json"
 
 }
