@@ -1,14 +1,9 @@
 //Main variables
 
-project  = "ML CI CD"
+project  = "My First Project"
 
 region   = "us-central1"
 
-zone     = "us-central1-a"
+zone     = "us-central1-c"
 
-// Folder transfer variables
-
-folder_path   = "/home/bamboo/bamboo-home/local-working-dir/ML-MLCICD-JOB1/dag"
-
-gcs_bucket    = "aeobucket01"
-repo_name = "add-to-bag-side-tray"
+repo_name = "Demo-1"
